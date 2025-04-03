@@ -8,6 +8,9 @@ cache
 artifacts
 typechain
 
+README.md
+scripts/README.md
+
 node_modules
 .env
 coverage
