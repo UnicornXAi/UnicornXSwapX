@@ -1,0 +1,21 @@
+node_modules
+# typechain
+
+hardhat.config.ts
+
+#Hardhat files
+cache
+artifacts
+typechain
+
+node_modules
+.env
+coverage
+coverage.json
+# typechain
+# typechain-types
+
+# Hardhat files
+# cache
+# artifacts
+
